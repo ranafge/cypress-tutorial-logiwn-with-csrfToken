@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samsul Islam</h1>
-<h3 align="center">A passionate Software qality test automation engineer from Bangladesh.</h3>
+<h3 align="center">A passionate Software quality test automation engineer from Bangladesh.</h3>
 
 - 🔭 I’m currently on traing [QAOps](From Tecognize in Bangladesh.)
 
